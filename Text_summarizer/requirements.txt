@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+jinja2
+sentencepiece
+protobuf
